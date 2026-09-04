@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://cmysha2vqy333"]
+
+[node name="Main" type="Node2D" unique_id=80191303]
+
+[node name="Player" type="Sprite2D" parent="." unique_id=1697876692]
+
+[node name="ScoreLabel" type="Label" parent="." unique_id=1105161831]
+offset_left = 55.0
+offset_top = -65.0
+offset_right = 207.0
+offset_bottom = -20.0
+text = "			Score: 0"
